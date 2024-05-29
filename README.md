@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/qwqawawow">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Arch-blue?style=for-the-badge&logo=Windows is the best Linux distro&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Windows?style=for-the-badge&logo=Windows&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/NeoVim-blue?style=for-the-badge&logo=neovim&logoColor=green">
   </a>
 </p>
